@@ -20,3 +20,8 @@ Available | Languages
 or play the latest on [GitHub](http://continuities.github.io/adarkroom)
 
 [![app store](http://i.imgur.com/M6jlJQH.png)](https://itunes.apple.com/us/app/a-dark-room/id736683061)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fadarkroom.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fadarkroom?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fadarkroom.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fadarkroom?ref=badge_large)
